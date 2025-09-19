@@ -1,2 +1,4 @@
-# atencion_medica_ep
+# SistemaDeAtencionMedica
+# Luis Alberto Ccoa Tito
+# Perez Quispe Miguel Alexandro
 
