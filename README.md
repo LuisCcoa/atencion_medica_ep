@@ -1,5 +1,5 @@
 # SistemaDeAtencionMedica
-Sistema creado con el fin de la automatizacion en lo que respecta a que los usuarios podran visualizar sus condiciones medicas
+Sistema creado con el fin de la automatizacion en lo que respecta a que los usuarios podran hacer seguimiento de su estado de solud o recetarios o medicamentos para pacientes
 # Integrantes:
 -Luis Alberto Ccoa Tito <br/>
 -Perez Quispe Miguel Alexandro
