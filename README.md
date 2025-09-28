@@ -10,3 +10,5 @@ Sistema creado con el fin de la automatizacion en lo que respecta a que los usua
 - dbdiagram (Diseño de BaseDatos)<br/>
 - MySql<br/>
 - Spring-bot
+# Video de documentacion Swagger (Almacenado en OneDrive)
+https://1drv.ms/v/s!AjOblYiOKnBfcN-VP_jOUsYtjjc?e=auZA4T
